@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shikachii/QRVisualizer#readme",
   "devDependencies": {
+    "@types/chrome": "0.0.134",
     "copy-webpack-plugin": "^8.1.1",
     "ts-loader": "^8.1.0",
     "typescript": "^4.2.4",
